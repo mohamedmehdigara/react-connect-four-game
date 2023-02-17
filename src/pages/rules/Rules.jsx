@@ -1,6 +1,7 @@
 import Styles from "./Rules.module.scss";
 import iconCheck from "../../assets/images/icon-check.svg";
 import { Link } from "react-router-dom";
+import React from "react";
 const Rules = () => {
   return (
     <div className={Styles.rulesContainer}>

@@ -8,6 +8,7 @@ import Pvp from "../../assets/images/player-vs-player.svg";
 import PvpCpu from "../../assets/images/player-vs-cpu.svg";
 import Logo from "../../assets/images/logo.svg";
 import Styles from "./MainMenu.module.scss";
+import React from "react";
 
 const MainMenu = () => {
   const navigate = useNavigate();

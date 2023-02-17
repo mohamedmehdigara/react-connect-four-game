@@ -7,6 +7,7 @@ import NotFound from "./pages/notFound/NotFound";
 import { Routes, Route } from "react-router-dom";
 // import { Routes, Route, Link, Navigate } from "react-router-dom";
 import InGame from "./components/inGame/InGame";
+import React from "react";
 function App() {
   return (
     <>
